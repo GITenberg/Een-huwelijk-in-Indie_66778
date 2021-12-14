@@ -1,0 +1,29 @@
+_repo: Een-huwelijk-in-Indie_66778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krüseman, Mina
+    aliases:
+    - Kruseman, Mina (Wilhelmina Jacoba Paulina Rudolphine)
+    - Oristorio di Frama, Stella
+    birthdate: 1839
+    deathdate: 1922
+    gutenberg_agent_id: '53955'
+    url: http://www.gutenberg.org/2009/agents/53955
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Mina_Kruseman
+    - https://en.wikipedia.org/wiki/Mina_Kruseman
+description: ''
+gutenberg_issued: '2021-11-20'
+identifiers:
+  gutenberg: '66778'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesia -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Een huwelijk in Indië
+url: http://www.gutenberg.org/ebooks/66778
