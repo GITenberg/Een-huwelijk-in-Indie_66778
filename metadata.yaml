@@ -1,5 +1,8 @@
 _repo: Een-huwelijk-in-Indie_66778
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66778-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Krüseman, Mina
@@ -14,6 +17,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Mina_Kruseman
     - https://en.wikipedia.org/wiki/Mina_Kruseman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66778#Een-huwelijk-in-Indie
 gutenberg_issued: '2021-11-20'
 identifiers:
   gutenberg: '66778'
